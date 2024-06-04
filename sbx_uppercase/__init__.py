@@ -2,7 +2,7 @@
 
 # from sparv import Config
 
-from . import uppercase
+from . import uppercase, length, nouncount
 
 # __config__ = [
 #     Config("uppercase.some_setting", "some_default_value", description="Description for this setting")
